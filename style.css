@@ -168,6 +168,11 @@ header nav ul #tablet-mobile {
     width: 100%;
   }
 }
+@media screen and (max-width: 515px) {
+  .helping .text h1 {
+    font-size: 2rem;
+  }
+}
 @media screen and (max-width: 375px) {
   .helping .text h1 {
     font-size: 2rem;
